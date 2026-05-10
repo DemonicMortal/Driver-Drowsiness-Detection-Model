@@ -2,7 +2,7 @@
 
 A deep learning based video driver drowsiness detection system built using an Attention-Guided CNN-Transformer architecture. The system processes sequential video frames to detect driver fatigue and drowsiness using temporal video understanding.
 
-## Overview
+##  Overview
 
 This project focuses on detecting driver drowsiness from video sequences using a hybrid deep learning pipeline:
 
